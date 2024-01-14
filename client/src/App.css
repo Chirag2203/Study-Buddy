@@ -1,0 +1,6 @@
+@layer base{
+  main-body{
+    @apply bg-slate-900 text-foreground;
+  }
+
+}
